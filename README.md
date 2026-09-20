@@ -1,4 +1,4 @@
-# DIAMONDX Baseball — V4
+# DIAMONDX Baseball — V5
 
 Premium baseball retail storefront concept with a complete catalog, responsive layout, support center, local product imagery, cart, wishlist, search, filters, position-based shopping and a redesigned product-image system.
 
@@ -75,3 +75,19 @@ The product cards were also given a taller image stage so the photography has en
 ## V4 promotional banner correction
 
 The three promotional cards now use a dedicated clean three-panel sports banner. The previous page-derived promotional graphics were removed, eliminating duplicate embedded page text and screenshot fragments. The new panels use consistent dimensions and clean standalone imagery.
+
+## V5 promotional image redesign
+
+The promotional strip was rebuilt from the ground up after visual review.
+
+Instead of using a single multi-panel graphic or page-derived crops, V5 uses three separate cinematic baseball photographs. The HTML overlay copy was removed completely, eliminating duplicated text and awkward white seams.
+
+Each promotional card is now:
+- one independent image
+- edge-to-edge inside its card
+- consistently cropped
+- rounded once, at the card level
+- free of duplicate UI text
+- linked to the shop
+- responsive
+- animated only with a subtle hover zoom
