@@ -1,1 +1,1 @@
-The included imagery was generated for this project and then locally cropped/optimized for the storefront. Replace with authorized production photography before commercial launch.
+V3 imagery was generated specifically for the DIAMONDX concept and stored as local optimized JPEG assets. The storefront does not rely on remote image URLs.
