@@ -1,4 +1,4 @@
-# DIAMONDX Baseball — V3 Fixed
+# DIAMONDX Baseball — V4
 
 Premium baseball retail storefront concept with a complete catalog, responsive layout, support center, local product imagery, cart, wishlist, search, filters, position-based shopping and a redesigned product-image system.
 
@@ -70,3 +70,8 @@ Each catalog asset is now:
 - locally stored inside the ZIP
 
 The product cards were also given a taller image stage so the photography has enough room to breathe while remaining visually consistent.
+
+
+## V4 promotional banner correction
+
+The three promotional cards now use a dedicated clean three-panel sports banner. The previous page-derived promotional graphics were removed, eliminating duplicate embedded page text and screenshot fragments. The new panels use consistent dimensions and clean standalone imagery.
